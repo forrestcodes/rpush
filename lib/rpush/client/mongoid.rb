@@ -1,6 +1,8 @@
 require "rpush/mongoid/version"
 
 module Rpush
-  module Mongoid
+  module Client
+    module Mongoid
+    end
   end
 end
